@@ -34,7 +34,7 @@ sh debug.sh
 
 ## How to connect
 
-Download a user cred file(.ovpn), open it to change the UDP port to your own one. Import the file into your client to connect.
+Download a user cred file(.ovpn), open it to <b>change the UDP port</b> to your own one. Import the file into your client to connect.
 
 Drop a line if any question: <a href="mailto:hey@crazyoptimist.net">hey@crazyoptimist.net</a><br>
 Happy coding!
